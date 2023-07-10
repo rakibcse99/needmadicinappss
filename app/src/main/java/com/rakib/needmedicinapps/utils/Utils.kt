@@ -9,23 +9,23 @@ object Utils {
         Banner(
             id = 1,
             title = "Welcome Our Apps",
-            slideImg = "https://firebasestorage.googleapis.com/v0/b/fir-test-d4ed2.appspot.com/o/background.png?alt=media&token=8c4ea6c0-d03b-4345-a4b1-8d98aa52c3f6"
+            slideImg = "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=830&q=80"
         ),
         Banner(
             id = 2,
             title = "",
-            slideImg = "https://media.gettyimages.com/id/1312706413/photo/modern-hospital-building.jpg?s=1024x1024&w=gi&k=20&c=2nU8Ac2_g9NiiRTgZXfBqSRx50tR4x8R7io7X1OCUFg="
+            slideImg = "https://media.istockphoto.com/id/1441494864/photo/medical-team-portrait.jpg?s=1024x1024&w=is&k=20&c=3V5ZanhKQ_Fux9WvxjaYAPALwvLiL9u4Fzi8xPpgciY="
         ),
 
         Banner(
             id = 3,
             title = "",
-            slideImg = "https://images.pexels.com/photos/3769151/pexels-photo-3769151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            slideImg = "https://media.istockphoto.com/id/1465073112/photo/blue-capsules-on-conveyor-at-modern-pharmaceutical-factory-tablet-and-capsule-manufacturing.jpg?s=1024x1024&w=is&k=20&c=he28UxqwhixH6YWmirYFRBj980I4kvkQ2ZKiIzAvlQQ="
         ),
         Banner(
             id = 4,
             title = "",
-            slideImg = "https://images.pexels.com/photos/3279203/pexels-photo-3279203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            slideImg = "https://images.unsplash.com/photo-1573883431205-98b5f10aaedb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         )
     )
 
